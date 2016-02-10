@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ruleset name="Test">
+    <rule ref="../vendor/consistence/coding-standard/Consistence/ruleset.xml"/>
+</ruleset>

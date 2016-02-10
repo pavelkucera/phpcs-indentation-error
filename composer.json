@@ -1,0 +1,8 @@
+{
+	"type": "project",
+	"license": "proprietary",
+	"require": {
+		"consistence/coding-standard": "0.10.1",
+		"squizlabs/php_codesniffer": "2.5.1"
+	}
+}
