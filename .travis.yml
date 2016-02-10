@@ -10,3 +10,4 @@ before_script:
 install:
   - composer install --no-interaction --prefer-source --dev
   - vendor/bin/phpcs --standard="build/cs-ruleset.xml" src/Foo.php
+  - echo "Codesniffer:" && composer show -i | grep codesniffer
